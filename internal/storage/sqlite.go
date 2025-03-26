@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/loganmanery/passmanager/internal/models"
+	"github.com/loganmanery/passmanager/pkg/models"
 	_ "github.com/mattn/go-sqlite3"
 )
 

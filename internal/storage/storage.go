@@ -1,6 +1,6 @@
 package storage
 
-import "github.com/loganmanery/passmanager/internal/models"
+import "github.com/loganmanery/passmanager/pkg/models"
 
 // StorageService defines the interface for database operations
 type StorageService interface {

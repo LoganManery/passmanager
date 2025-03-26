@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/loganmanery/passmanager/internal/crypto"
-	"github.com/loganmanery/passmanager/internal/models"
 	"github.com/loganmanery/passmanager/internal/storage"
 	"github.com/loganmanery/passmanager/pkg/generator"
+	"github.com/loganmanery/passmanager/pkg/models"
 )
 
 // PasswordManager handles all password management operations
